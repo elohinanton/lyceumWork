@@ -1,0 +1,11 @@
+@import url(AntonE.css);
+
+body, h2, .AntonE-pseudoSection {
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    height: 100vh;
+    overflow: hidden ;
+}
